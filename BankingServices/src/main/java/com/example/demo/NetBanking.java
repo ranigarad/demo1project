@@ -11,8 +11,7 @@ public class NetBanking {
 	String	checkBalance(@PathVariable int acNo,@PathVariable int pin)
 		{
 			 if(pin<1000)
-			 {
-				 
+			 {				 
 				 return "pin is invalid";
 			 }
 			
