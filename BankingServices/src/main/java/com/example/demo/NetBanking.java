@@ -16,7 +16,7 @@ public class NetBanking {
 				 return "pin is invalid";
 			 }
 			
-			return "u r bal is 10000";
+			return "u r bal is 50000";
 			
 		}
 		
