@@ -12,10 +12,10 @@ public class NetBanking {
 		{
 			 if(pin<1000)
 			 {				 
-				 return "pin is invalid";
+				 return "pin is invalid, plz fill correct pin";
 			 }
 			
-			return "ur balance in SBI is 10000";			
+			return "ur balance in SBI is 50000";			
 		}
 		
 		
